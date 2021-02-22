@@ -1,0 +1,11 @@
+p {
+    padding: 4mm;
+    border-style: solid;
+border-color: blue;
+border-width: 2px;
+}
+span{
+    padding: 5px;
+    margin: 10px;
+    color: orange;
+}

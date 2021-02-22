@@ -1,0 +1,19 @@
+p {
+padding: 10px;
+margin: 1%;
+background-color: lavenderblush;
+width: 20%;
+}
+#egy {
+    float:right; margin-right: 50px; clear:left;
+}
+#ketto {
+    float: unset;
+}
+#harom {
+    float:left; margin-left: 50px; clear:left;
+}
+::first-letter {
+    font-size:250%; font-weight:bold;
+color:red; font-family:Corsiva; float: left;
+}
